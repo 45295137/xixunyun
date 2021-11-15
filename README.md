@@ -6,9 +6,14 @@
 
 本脚本最大的不同应该就是基于github action运行，所以并不需要服务器、不需要服务器、不需要服务器同样也不需要掌握任何python的相关设置，你所需要准备的就是一个github账号以及一个耐而不烦的心。傻瓜式的操作却可以解决你最大的痛苦。
  
+### 特点
+1、本项目支持任何形式的习讯云签到。<br>
+2、基于server酱使得签到成功时会将签到信息发送至你的微信。<br>
+2、无需挂在任何服务器上，只需要点几下，让github自动为你签到。<br>
+3、使用强大的GitHub actions功能，实现无服务器实时监控您的习讯云签到。<br>
+4、无需掌握任何编程知识，强大的后端后端已做好，您仅需点击几下。
 
- 
- 
+
 
 ## 快速使用
 
@@ -43,16 +48,16 @@
    依次添加以下所有name以及value。<br>
     ┉┉ ∞ ∞ ┉┉┉┉ ∞ ∞ ┉┉┉ <br>
      Name:<code>USER</code><br>
-     Value：<code>194114256 CZ100%sjxh 768</code><br>
+     Value：<code>填写你的习讯云账号密码和学校ID,用空格或者空行分开</code><br>
    ┉┉ ∞ ∞ ┉┉┉┉ ∞ ∞ ┉┉┉<br>
      Name：<code>SIGN_GPS</code><br>
-     Value：<code>119.313637,26.033417</code><br>
+     Value：<code>填写签到的GPS坐标</code><br>
     ┉┉ ∞ ∞ ┉┉┉┉ ∞ ∞ ┉┉┉<br>
      Name：<code>ADDRESS_NAME</code><br>
-     Value：<code>首山路60号</code><br>
+     Value：<code>签到地址名字</code><br>
     ┉┉ ∞ ∞ ┉┉┉┉ ∞ ∞ ┉┉┉<br>
      Name：<code>SCKEY</code><br>
-     Value：<code>SCT95236TryfBE5WBxzB4rWyawMS3jcxW</code>#申请地址http://sc.ftqq.com/3.version  <br>
+     Value：<code>填写你的server酱SCKEY码，以SCU开头</code>#申请地址http://sc.ftqq.com/3.version  <br>
       ┉┉ ∞ ∞ ┉┉┉┉ ∞ ∞ ┉┉┉<br>配置完后如下图所示
 
    ![image](https://raw.githubusercontent.com/kuilei0926/xixunyun/main/img/QQ%E6%88%AA%E5%9B%BE20201222093054.png)<br>
