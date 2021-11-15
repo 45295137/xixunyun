@@ -51,13 +51,13 @@
      Value：<code>194114256 CZ100%sjxh 768</code><br>
    ┉┉ ∞ ∞ ┉┉┉┉ ∞ ∞ ┉┉┉<br>
      Name：<code>SIGN_GPS</code><br>
-     Value：<code>填写签到的GPS坐标</code><br>
+     Value：<code>119.313637,26.033417</code><br>
     ┉┉ ∞ ∞ ┉┉┉┉ ∞ ∞ ┉┉┉<br>
      Name：<code>ADDRESS_NAME</code><br>
-     Value：<code>签到地址名字</code><br>
+     Value：<code>首山路60号</code><br>
     ┉┉ ∞ ∞ ┉┉┉┉ ∞ ∞ ┉┉┉<br>
      Name：<code>SCKEY</code><br>
-     Value：<code>填写你的server酱SCKEY码，以SCU开头</code>#申请地址http://sc.ftqq.com/3.version  <br>
+     Value：<code>SCT95236TryfBE5WBxzB4rWyawMS3jcxW</code>#申请地址http://sc.ftqq.com/3.version  <br>
       ┉┉ ∞ ∞ ┉┉┉┉ ∞ ∞ ┉┉┉<br>配置完后如下图所示
 
    ![image](https://raw.githubusercontent.com/kuilei0926/xixunyun/main/img/QQ%E6%88%AA%E5%9B%BE20201222093054.png)<br>
